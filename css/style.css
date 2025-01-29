@@ -46,8 +46,8 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 40px 9%;
-    background: rgba(0, 0, 0, 0.4);
+    padding: 20px 9%;
+    background: rgba(0, 0, 0, 0.103);
     backdrop-filter: blur(10px);
     transition: all 0.3s ease;
 }
